@@ -35,12 +35,12 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-Run: composer insatll<br>
-Run: php artisan optimize:clear<br>
-Run: php artisan route:clear<br>
-Run: php artisan key:generate<br>
-Run: php artisan migrate:fresh --seed<br>
-Run: php artisan serve<br>
+Run : composer insatll<br>
+Run : php artisan optimize:clear<br>
+Run : php artisan route:clear<br>
+Run : php artisan key:generate<br>
+Run : php artisan migrate:fresh --seed<br>
+Run : php artisan serve<br>
 
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
